@@ -15,14 +15,14 @@
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/cssrem/cssrem.sublime-settings"
+                                    "file": "${packages}/remcss/remcss.sublime-settings"
                                 },
                                 "caption": "Settings – Default"
                             },
                             {
                                 "command": "open_file",
                                 "args": {
-                                    "file": "${packages}/User/cssrem.sublime-settings"
+                                    "file": "${packages}/User/remcss.sublime-settings"
                                 },
                                 "caption": "Settings – User"
                             },
