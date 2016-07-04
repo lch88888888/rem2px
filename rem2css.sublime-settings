@@ -1,5 +1,0 @@
-{
-    "rem_to_px": 100,
-    "max_px_fraction_length": 6,
-    "available_file_types": [".css", ".less", ".sass"]
-}
