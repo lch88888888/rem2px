@@ -18,6 +18,6 @@ REMCSS
 
 参数配置文件：Sublime Text -> Preferences -> Package Settings -> cssrem
 
-* `rem_to_px` - px转rem的单位比例，默认为40。
+* `rem_to_px` - px转rem的单位比例，默认为100。
 * `max_px_fraction_length` - px转rem的小数部分的最大长度。默认为6。
 * `available_file_types` - 启用此插件的文件类型。默认为：[".css", ".less", ".sass"]。
